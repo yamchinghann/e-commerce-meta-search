@@ -12,7 +12,7 @@ A client-side React app for searching Malaysian marketplace listings across Shop
 - Tailwind CSS responsive interface
 - Vite configuration ready for GitHub Pages deployment under `/shopping-search/`
 
-## Tech Stack
+## Tech Stack*tech
 
 - Vite
 - React
